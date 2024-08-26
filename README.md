@@ -10,4 +10,4 @@ This is a responsive decor website built using HTML, CSS, and Bootstrap. The web
 - **Gallery Section:** A beautifully designed gallery section that showcases various decor items with a masonry layout.
 
 ## Demo
-You can view a live demo of the website ().
+You can view a live demo of the website (https://ebtehal18.github.io/decore/).
